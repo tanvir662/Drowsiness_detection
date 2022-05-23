@@ -8,6 +8,6 @@ install process<br>
 2.create a new conda environment with python 3.6 version in your laptop.<br>
 3.copy all item from the repository folder.<br>
 4.paste it in your new environment.<br>
-5. run this pip install -r requirements.txt in your project rerminal.<br>
+5. run this pip install -r requirements.txt in your project terminal.<br>
 
 now your project is ready: run objectdetection.py
